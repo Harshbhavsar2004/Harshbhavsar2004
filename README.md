@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Harshal Bhavsar</h1>
-<img align="center" src="Namelogo.png" alt="" width="1500" height="300">
+<img align="center" src="Namelogo.png" alt="" width="1500" height="250">
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="coding"width="400" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
 
@@ -28,6 +28,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=harshbhavsar2004&show_icons=true&locale=en&layout=compact" alt="harshbhavsar2004" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=harshbhavsar2004&show_icons=true&locale=en" alt="harshbhavsar2004" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harshbhavsar2004&" alt="harshbhavsar2004" /></p>
