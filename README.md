@@ -1,3 +1,4 @@
+[![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 <h1 align="center">Hi 👋, I'm Harshal Bhavsar</h1>
 <img align="center" src="Namelogo.png" alt="" width="1500" height="250">
 <h3 align="center">A passionate frontend developer from India</h3>
