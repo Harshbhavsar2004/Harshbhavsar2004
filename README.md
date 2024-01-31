@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Harshal Bhavsar</h1>
-<img align="center" src="https://imgs.search.brave.com/XEyYIEtsAELJjVHMctF3PRl6zt0BiJK135Q76db7dKw/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9jZG4u/cGl4YWJheS5jb20v/cGhvdG8vMjAxNi8x/MC8xMi8yMi80NC9t/b3VudGFpbnMtMTcz/NjIwOV82NDAuanBn" alt="" width="1500" height="250">
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="coding"width="400" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
 <audio src="WhatsApp Audio 2023-12-21 at 23.50.48_94dd5dd6.mp3" autoplay></audio >
