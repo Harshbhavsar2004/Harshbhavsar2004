@@ -41,12 +41,6 @@
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
 [![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)](https://unity.com/)
 
-
-
-
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/harshbhavsar"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/harshbhavsar" /></a></p><br><br>
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=harshbhavsar2004&show_icons=true&locale=en&layout=compact" alt="harshbhavsar2004" /></p>
 
 
